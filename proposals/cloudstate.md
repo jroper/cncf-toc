@@ -121,4 +121,6 @@ from which the primary contributor base is drawn.
 
 **Project logo**
 
-TBA
+<img src="https://cloudstate.io/dist/images/logos/cloudstate-horizontal-color.svg" width="200"/>
+
+CNCF standard formats: https://cloudstate.io/logos/
