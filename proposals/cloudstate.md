@@ -27,9 +27,9 @@ protocols for expressing common distributed computing patterns, including:
 * Event Sourcing
 * Addressable P2P communication
 
-The implementation is built on the [Akka](https://akka.io) actor framework,
+The reference implementation is built on the [Akka](https://akka.io) actor framework,
 and utilises Akka's distributed state management features, such as cluster 
-sharding, distributed pubsub and distributed data (CRDTs).
+sharding, distributed pubsub, and distributed data (CRDTs).
 
 **Statement on alignment with CNCF mission**:
 
@@ -56,7 +56,7 @@ Cloud Native as:
 We believe the biggest challenge in developing resilient systems lies in the
 management of state, ensuring consistency and scalability while still allowing
 loose coupling between components. Without addressing the management of state,
-the CNCF cannot achieve its mission of making cloud native computing
+the CNCF cannot achieve its mission of making Cloud Native computing
 ubiquitous. We therefore believe CloudState will play an important role in
 achieving that mission.
 
